@@ -1,4 +1,4 @@
-Am lonely who develop fixed this fork..
+umAm lonely who develop fixed this fork..
 please follow me 💙
 
 ## Introduction
@@ -88,7 +88,7 @@ If you have major coding issues with this bot, please join and ask for help.
 	<summary>
 		📌 Error for site owners: Invalid domain for site key
 	</summary>
-		<p><img src="https://i.ibb.co/2gZttY7/image.png" width="250px"></p>
+		<p><img src="https://i.ibb.co/p6FLdnyf/saimx69x-d6ceca.jpg" width="250px"></p>
 		<p>1. Go to <a href="https://www.google.com/recaptcha/admin">https://www.google.com/recaptcha/admin</a></p>
 		<p>2. Add domain <b>repl.co</b> (not <b>repl.com</b>) to <b>Domains</b> in <b>reCAPTCHA v2</b> <a href="https://youtu.be/nTIT8OQeRnY?t=698">Tutorial</a></p>
 </details>
