@@ -4,7 +4,7 @@ const path = require("path");
 const crypto = require("crypto");
 const moment = require("moment-timezone");
 
-const BANK_NAME = "MK-GOAT BANK";
+const BANK_NAME = "CHUCKY-GOAT BANK";
 const BANK_CODE = "GOAT";
 const CURRENCY_SYMBOL = "$";
 const INTEREST_RATE = 0.02;
